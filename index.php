@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 echo 22;die;
+=======
+echo 11;die;
+>>>>>>> 3beab26cc43160e463b2754264c689c5862d1859
 /**
  * @version        $Id: index.php 1 9:23 2010-11-11 tianya $
  * @package        DedeCMS.Site
