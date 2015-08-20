@@ -1,5 +1,5 @@
 <?php
-echo 222;die;
+echo 222222;die;
 /**
  * @version        $Id: index.php 1 9:23 2010-11-11 tianya $
  * @package        DedeCMS.Site
