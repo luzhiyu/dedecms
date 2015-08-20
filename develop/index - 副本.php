@@ -1,9 +1,4 @@
 <?php
-<<<<<<< Updated upstream
-echo 2244;die;
-=======
-echo 22333;die;
->>>>>>> Stashed changes
 /**
  * @version        $Id: index.php 1 9:23 2010-11-11 tianya $
  * @package        DedeCMS.Site
